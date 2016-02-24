@@ -1,3 +1,7 @@
+![build](https://img.shields.io/badge/Build-tentive-yellow.svg)
+![licence](https://img.shields.io/badge/License-GPLv2-brightgreen.svg)
+[![release](https://img.shields.io/badge/Release-none-red.svg)](https://github.com/TimGuenther/burp-reCAPTCHA/releases)
+
 # burp-reCAPTCHA
 Burp Suite Extension to solve reCAPTCHAs manually.
 
